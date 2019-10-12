@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Lab10</string>
+    <string name="password">Password</string>
+    <string name="login">login</string>
+    <string name="register">register</string>
+    <string name="message">Message</string>
+    <string name="user">User</string>
+    <string name="textview">TextView</string>
+    <string name="register_form">Register Form</string>
+    <string name="username">Username</string>
+    <string name="teacher">Teacher</string>
+    <string name="student">Student</string>
+    <string name="the_courseapp">The CourseApp</string>
+    <string name="subject">Subject</string>
+    <string name="welcome_username">Welcome Username</string>
+    <string name="send">Send</string>
+</resources>
